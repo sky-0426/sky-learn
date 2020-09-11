@@ -1,4 +1,0 @@
-﻿  04栈.c
-d:\代码\数据结构\04栈\04栈\stack.h(54): warning C4033: “StackTop”必须返回值
-d:\代码\数据结构\04栈\04栈\stack.h(58): warning C4715: “StackTop”: 不是所有的控件路径都返回值
-  04栈.vcxproj -> D:\代码\数据结构\04栈\Debug\04栈.exe
